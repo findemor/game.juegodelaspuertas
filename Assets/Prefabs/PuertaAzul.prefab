@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6105662960350515542
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8699016442861216640, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216640, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216640, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216640, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216640, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216640, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216640, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216640, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216640, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216640, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216640, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216641, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216641, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: DoorClosed
+      value: 
+      objectReference: {fileID: 3676380692001170494, guid: c2f9e615d552fe14bbe3f76c1fec82c2, type: 3}
+    - target: {fileID: 8699016442861216643, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_Name
+      value: PuertaAzul
+      objectReference: {fileID: 0}
+    - target: {fileID: 8699016442861216670, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3676380692001170494, guid: c2f9e615d552fe14bbe3f76c1fec82c2, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c2ca37faccc51554ba7d8405624bb2bd, type: 3}
